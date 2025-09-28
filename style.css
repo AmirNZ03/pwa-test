@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+     margin: 0;
+    padding: 0; 
+}
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 4rem;
+}
+.page{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.user{
+    margin-top: 2rem;
+}
+.sd{
+    display: flex;
+    flex-direction: column;
+  justify-content: space-between;
+}
+.sab{
+    display: flex;
+}
